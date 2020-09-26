@@ -1,0 +1,28 @@
+# Q3.3 How many columns assosiated with house location (except `zipcode`) are in the data?
+to
+# Q3.3 How many columns assosiated with house earth coordinates are in the data?
+
+# Q5.5 How many explicit NA values are in the `yr_renovated` column?
+to 
+# Q5.5 How many NA values (not zeros, but empty, missing values) are in the `yr_renovated` column?
+
+Q7 preambule
+
+# Count frequency of the values in different columns (list of ints in ascending order)
+to 
+# Count frequency of the values in different columns (list of ints in descending order)
+
+# Q8.4 What are the max, min, mean and the std of the `pice` column?
+to 
+# Q8.4 What are the max, min, mean and the std of the `price` column?
+
+# Q14.2 What was the most expensive house sold in the last decade of 20th centuary?
+# Q14.3 What was the least expensive house sold in the last decade of 20th centuary?
+to 
+# Q14.2 What was the price of the most expensive house sold, built between 1991 and 2000?
+# Q14.3 What was the price of the least expensive house sold, built between 1991 and 2000?
+
+Q18 preambule
+# Find some date related information from the data (int)
+to 
+# Find some date related information from the data (int, Sunday has index 0)
